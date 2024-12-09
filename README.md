@@ -1,6 +1,6 @@
 JWTs (JSON Web Tokens) are a popular tool for secure communication in modern web applications. But are they as secure as you think? In this video, we break down the common vulnerabilities and mistakes developers make when implementing JWTs.
 
-Watch the video here: https://youtu.be/rstmow2SHm4?si=nyuuqbis_kqiviqe
+Watch the video here: https://youtu.be/7AMQ4oNa4ys
 
 🚩 What you'll learn:
 Common JWT security flaws and how attackers exploit them
