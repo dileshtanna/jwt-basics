@@ -1,0 +1,68 @@
+@import url("https://fonts.googleapis.com/css2?family=Merriweather:wght@700&family=Poppins:wght@500;600&display=swap");
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: "Poppins", sans-serif;
+  font-weight: 500;
+  font-size: 18px;
+  background-color: #f1f1f1;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.form-container {
+  background-color: #fff;
+  padding: 80px;
+  border-radius: 10px;
+  box-shadow: 4px 4px #dcdcdc;
+  max-width: 683px;
+  width: 100%;
+  margin: 30px auto;
+}
+
+label {
+  font-weight: 600;
+  color: #6d6d6d;
+}
+
+input {
+  max-width: 483px;
+  width: 100%;
+  padding: 20px;
+  margin: 10px 0;
+  border: 2px solid #000;
+  border-radius: 4px;
+  font-size: 16px;
+  margin-bottom: 20px;
+}
+
+input::placeholder {
+  font-family: "Poppins", sans-serif;
+  font-weight: 500;
+}
+
+button {
+  max-width: 500px;
+  width: 100%;
+  padding: 20px;
+  background-color: #000;
+  color: #fff;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  font-family: "Poppins", sans-serif;
+  font-weight: 500;
+  font-weight: 18px;
+  margin: 20px auto;
+  transition: background-color 0.4s ease-in-out;
+}
+
+button:hover {
+  background-color: #444;
+}
